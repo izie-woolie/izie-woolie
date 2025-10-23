@@ -12,8 +12,9 @@ Developers who lazy but want to be cracked.
 
 ## TODO
 
--   Cloud Applications: Context Diagram [ ]
--   Cloud Applications: DFD Level 0 [ ]
+-   Cloud Applications: Context Diagram [X]
+-   Cloud Applications: DFD Level 0 [X]
+-   Cloud Applications: ERD [ ]
 -   Cloud Applications: API Endpoint Mapping [ ]
 -   Cloud Applications: Dotnet Construction [ ]
 
