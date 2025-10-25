@@ -14,7 +14,12 @@ Developers who lazy but want to be cracked.
 
 -   Cloud Applications: Context Diagram [X]
 -   Cloud Applications: DFD Level 0 [X]
--   Cloud Applications: ERD [ ]
+-   Cloud Applications: ERD [X]
+-   Cloud Applications: Clean up [ ]
+-   Cloud Applications: Setting Up GitHub
+-   Cloud Applications: Documenting Managing Secret [ ]
+-   Cloud Applications: Constructing Inheritance [ ]
+-   Cloud Applications: Constructing 1-M [ ]
 -   Cloud Applications: API Endpoint Mapping [ ]
 -   Cloud Applications: Dotnet Construction [ ]
 
