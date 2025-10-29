@@ -8,7 +8,7 @@ Developers who lazy but want to be cracked.
 | --- | ------------------ | ----------- |
 | 1.  | Blockchain         | Ongoing     |
 | 2.  | Final Year Project | Not Started |
-| 3.  | Cloud Applications | Planning    |
+| 3.  | Cloud Applications | Ongoing     |
 
 ## TODO
 
@@ -18,15 +18,16 @@ Developers who lazy but want to be cracked.
 -   Cloud Applications: Clean up [X]
 -   Cloud Applications: Setting Up GitHub [X]
 -   Cloud Applications: Documenting Managing Secret [X]
--   Cloud Applications: Constructing Inheritance [X]
--   Cloud Applications: Constructing 1-M [ ]
--   Cloud Applications: Constructing M-M [ ]
--   1 ( ): 9.30
--   2 ( ): 10.30
--   3 ( ): 11.30
--   4 ( ): 12.30
--   5 ( ): 1.30
+-   Cloud Applications: Constructing Relationship [X]
 -   Cloud Applications: API Endpoint Mapping [ ]
+
+1. Users ( )
+2. Personnels ( )
+3. Teams ( )
+4. Players ( )
+5. Tournaments ( )
+6. Matches ( )
+
 -   Cloud Applications: Dotnet Construction [ ]
 
 ## Future Dumpster Diving
